@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as e,a as t}from"./app.53085d56.js";const h=JSON.parse('{"title":"开发示例","description":"","frontmatter":{},"headers":[],"relativePath":"dev/index.md"}'),i={name:"dev/index.md"},c=t("",8),n=[c];function l(o,p,r,d,m,u){return e(),a("div",null,n)}const b=s(i,[["render",l]]);export{h as __pageData,b as default};
